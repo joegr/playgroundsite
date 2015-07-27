@@ -9,9 +9,10 @@ h1 {
 }
 
 div {
-	display: block;
+	display: inline;
 	border: solid black 2px;
 	border-radius: 10px;
 	margin: 5px;
 	background-color:#E0CBE9;
+	max-width: 20%;
 }
